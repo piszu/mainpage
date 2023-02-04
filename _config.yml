@@ -96,7 +96,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/piszu"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -106,3 +106,6 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
+    - label: "Private blog"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.blog.mariuszpisz.pl"
